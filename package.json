@@ -1,0 +1,27 @@
+{
+  "name": "backbone.flask-restless",
+  "version": "0.0.1",
+  "description": "A backbone.js extension for matching flask-restless",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chfw/backbone.flask-restless.git"
+  },
+  "keywords": [
+    "backbone.js",
+    "flask-restless"
+  ],
+  "author": "C. W. <wangc_2011@hotmail.com> (http://github.com/chfw/silent-yeoman)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chfw/backbone.flask-restless/issues"
+  },
+  "homepage": "https://github.com/chfw/backbone.flask-restless",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-uglify": "^0.9.1"
+  }
+}

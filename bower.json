@@ -1,0 +1,22 @@
+{
+  "name": "backbone.flask-restless",
+  "version": "0.0.1",
+  "homepage": "https://github.com/chfw/backbone.flask-restless",
+  "authors": [
+    "C.W."
+  ],
+  "description": "A backbone.js extension for matching flask-restless",
+  "main": "dist/backbone.flask-restless.min.js",
+  "keywords": [
+    "backbone.js",
+    "flask-restless"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
